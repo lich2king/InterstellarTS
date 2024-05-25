@@ -173,8 +173,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 })
 // Splash
 let SplashT = [
-  "Thanks for using the site",
-  "Check out the settings page"
+  "Site created by https://discord.gg/interstellar"
 ]
 
 let SplashI = Math.floor(Math.random() * SplashT.length)
