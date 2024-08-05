@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
     const GoURL = sessionStorage.getItem("GoUrl")
 
-    if (tabCounter === 1) {
+    if (tabCounter === 1 && GoURL !== null) {
 		if (GoURL.includes("https://scratch.mit.edu/"))
 		{
 			newIframe.src = GoURL
@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 			  }
 		}
       
-    } else if (tabCounter !== 1) {
+    } else if (tabCounter !== 1 || GoURL === null) {
       //newIframe.src = "/"
 	  newIframe.src = window.location.origin + "/lessons/ts/Tetris-main/Tetris-main/index.html"
     } else if (GoURL !== null) {
