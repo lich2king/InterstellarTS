@@ -1052,12 +1052,6 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Now.GG",
-    "link": "https://now.gg",
-    "image": "/assets/media/icons/now-gg.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
     "name": "Parappa the Rapper",
     "link": "https://retrogamesonline.io/parappa-the-rapper.embed",
     "image": "/assets/media/icons/ptr.webp",
