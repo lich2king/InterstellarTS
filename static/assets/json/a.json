@@ -24,12 +24,6 @@
     "categories": ["all", "social", "game", "media"]
   },
   {
-    "name": "Chess.com",
-    "link": "https://chess.com",
-    "image": "/assets/media/icons/chess.webp",
-    "categories": ["all", "game"]
-  },
-  {
     "name": "NFL",
     "link": "https://nfl.com",
     "image": "/assets/media/icons/nfl.webp",
@@ -525,12 +519,6 @@
     "name": "Clicker Heros",
     "link": "https://www.clickerheroes.com/play.html",
     "image": "/assets/media/icons/clickerheros.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Chess.com",
-    "link": "https://chess.com",
-    "image": "/assets/media/icons/chess.webp",
     "categories": ["all"]
   },
   {
