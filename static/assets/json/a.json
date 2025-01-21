@@ -12,12 +12,6 @@
     "categories": ["all", "stream", "cloud"]
   },
   {
-    "name": "Scratch",
-    "link": "https://unblocked-games.s3.amazonaws.com/blog/best-scratch-games.html",
-    "image": "/assets/media/icons/scratch.webp",
-    "categories": ["all", "social", "game", "media"]
-  },
-  {
     "name": "VS Code",
     "link": "https://vscode.dev",
     "image": "/assets/media/icons/vscode.webp",
