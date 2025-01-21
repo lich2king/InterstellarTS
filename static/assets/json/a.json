@@ -234,12 +234,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Google Feud",
-    "link": "https://googlefeud.com/",
-    "image": "/assets/media/icons/googlefeud.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Minecraft Classic",
     "link": "https://classic.minecraft.net",
     "image": "/assets/media/icons/mc.webp",
