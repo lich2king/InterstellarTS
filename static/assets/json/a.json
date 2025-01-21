@@ -12,40 +12,10 @@
     "categories": ["all", "stream", "cloud"]
   },
   {
-    "name": "BuzzFeed Quizzes",
-    "link": "https://buzzfeed.com/quizzes",
-    "image": "/assets/media/icons/buzzfeed.webp",
-    "categories": ["all", "media"]
-  },
-  {
     "name": "Scratch",
     "link": "https://scratch.mit.edu",
     "image": "/assets/media/icons/scratch.webp",
     "categories": ["all", "social", "game", "media"]
-  },
-  {
-    "name": "NFL",
-    "link": "https://nfl.com",
-    "image": "/assets/media/icons/nfl.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "NBA",
-    "link": "https://nba.com",
-    "image": "assets/media/icons/nba.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Soundcloud",
-    "link": "https://soundcloud.com",
-    "image": "/assets/media/icons/soundcloud.webp",
-    "categories": ["all", "media"]
-  },
-  {
-    "name": "Canva",
-    "link": "https://canva.com",
-    "image": "/assets/media/icons/canva.webp",
-    "categories": ["all"]
   },
   {
     "name": "VS Code",
