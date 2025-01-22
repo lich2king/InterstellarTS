@@ -14,7 +14,7 @@ if (document.getElementById("add-tab")) {
         event.preventDefault()
         const formValue = input.value.trim()
         const url = isUrl(formValue) ? prependHttps(formValue) : "https://www.google.com/search?q=" + formValue
-        processUrl(url)
+        //processUrl(url)
       })
     }
 
@@ -52,7 +52,7 @@ if (document.getElementById("add-tab")) {
   if (form && input) {
     form.addEventListener("submit", async (event) => {
       event.preventDefault()
-      processUrl(input.value, "/ta")
+      //processUrl(input.value, "/ta")
     })
   }
 
