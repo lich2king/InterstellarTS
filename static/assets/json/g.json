@@ -3613,6 +3613,30 @@
     "categories": ["all", "local"]
   },
   {
+    "name": "Roblox (Now.GG)",
+    "link": "https://now.gg/iframe/snippet?app_pkg=com.roblox.client&partner=interstellar",
+    "image": "/assets/media/icons/roblox.webp",
+    "categories": ["all", "emu", "android"]
+  },
+  {
+    "name": "Fortnite (Now.GG)",
+    "link": "https://now.gg/iframe/snippet?app_pkg=com.epicgames.fortnite&partner=interstellar",
+    "image": "/assets/media/icons/fortnite.webp",
+    "categories": ["all", "emu", "android"]
+  },
+  {
+    "name": "Roblox (NowGG.me) [Working]",
+    "link": "https://nowgg.me/apps/roblox-corporation/5349/roblox.html",
+    "image": "/assets/media/icons/shuttle.webp",
+    "categories": ["all", "emu", "android"]
+  },
+  {
+    "name": "Now.GG (NowGG.me) [Working]",
+    "link": "https://nowgg.me",
+    "image": "/assets/media/icons/shuttle.webp",
+    "categories": ["all", "emu", "android"]
+  },
+  {
     "name": "Eaglercraft 1.5.2",
     "link": "/e/ec-15/index.html",
     "image": "/assets/media/icons/mc.webp",
