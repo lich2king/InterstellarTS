@@ -6,6 +6,18 @@
     "categories": ["all", "media"]
   },
   {
+    "name": "Tiktok",
+    "link": "https://tiktok.com",
+    "image": "/assets/media/icons/tiktok.webp",
+    "categories": ["all", "social", "media"]
+  },
+  {
+    "name": "Google",
+    "link": "https://google.com",
+    "image": "/assets/media/icons/google.webp",
+    "categories": ["all", "media"]
+  },
+  {
     "name": "Geforce NOW",
     "link": "https://play.geforcenow.com",
     "image": "/assets/media/icons/geforce-now.webp",
