@@ -6,12 +6,6 @@
     "categories": ["all", "media"]
   },
   {
-    "name": "Tiktok",
-    "link": "https://tiktok.com",
-    "image": "/assets/media/icons/tiktok.webp",
-    "categories": ["all", "social", "media"]
-  },
-  {
     "name": "Google",
     "link": "https://google.com",
     "image": "/assets/media/icons/google.webp",
