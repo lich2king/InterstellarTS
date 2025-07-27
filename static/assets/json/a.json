@@ -12,6 +12,12 @@
     "categories": ["all", "media"]
   },
   {
+    "name": "DuckDuckGo",
+    "link": "https://duckduckgo.com/",
+    "image": "/assets/media/icons/idlestartup.webp",
+    "categories": ["all"]
+  },
+  {
     "name": "Geforce NOW",
     "link": "https://play.geforcenow.com",
     "image": "/assets/media/icons/geforce-now.webp",
